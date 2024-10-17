@@ -1,7 +1,7 @@
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <string.h>
-//
+// test comment
 //struct mahasiswa{
 //    char nama[25];
 //    char nim[10];
